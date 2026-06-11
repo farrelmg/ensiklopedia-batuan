@@ -6,7 +6,7 @@ const databaseBatuan = {
         tekstur:"Faneritik",
         struktur:"Masif",
         pembentukan:"Terbentuk dari pendinginan magma secara lambat di bawah permukaan bumi.",
-        gambar:"image/granit.jpg"
+        gambar:"granit.jpg"
     },
 
     basalt:{
@@ -15,7 +15,7 @@ const databaseBatuan = {
         tekstur:"Afanitik",
         struktur:"Masif atau vesikular",
         pembentukan:"Terbentuk dari pendinginan lava yang cepat di permukaan bumi.",
-        gambar:"images/basalt.jpg"
+        gambar:"basalt.jpg"
     },
 
     marmer:{
@@ -24,7 +24,7 @@ const databaseBatuan = {
         tekstur:"Kristalin",
         struktur:"Masif",
         pembentukan:"Hasil metamorfisme batu gamping akibat suhu dan tekanan tinggi.",
-        gambar:"images/marmer.jpg"
+        gambar:"marmer.jpg"
     },
 
     obsidian:{
@@ -33,7 +33,7 @@ const databaseBatuan = {
         tekstur:"Amorf",
         struktur:"Masif",
         pembentukan:"Pendinginan magma yang sangat cepat dipermukaan",
-        gambar:"image/obsidian.jpg"
+        gambar:"obsidian.jpg"
     }
 };
 
