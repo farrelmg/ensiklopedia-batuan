@@ -9,11 +9,19 @@ body{
     padding:0;
 }
 
-.container{
+   .container{
     width:80%;
     margin:auto;
     text-align:center;
     padding-top:30px;
+}
+
+.search-box{
+   display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:10px;
+    margin-top:20px;  
 }
 
 h1{
